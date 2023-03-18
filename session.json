@@ -57,8 +57,8 @@
     "signalIdentities": [
       {
         "identifier": {
-          "name": "940768462714:1@s.whatsapp.net",
-          "deviceId": 0
+          "name": :1@s.whatsapp.net",
+    "      "deviceId": 0
         },
         "identifierKey": {
           "type": "Buffer",
